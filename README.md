@@ -2,6 +2,7 @@
 KWC Model in use (Preprocessing -> Textual graph representation -> Node weight assignment -> Keyword Extraction)
 
 //Reference: Monali Bordoloi1 · Saroj Kr. Biswas1(2018)(Keyword extraction from blogs using collective weight, Springer)
+https://www.researchgate.net/publication/327616483_Keyword_extraction_from_micro-blogs_using_collective_weight
 
 //KWC model
 
@@ -15,4 +16,3 @@ KWC Model in use (Preprocessing -> Textual graph representation -> Node weight a
 
 //Dataset : https://www.kaggle.com/benhamner/nips-papers?select=papers.csv
 
-//Research Paper : https://www.researchgate.net/publication/327616483_Keyword_extraction_from_micro-blogs_using_collective_weight

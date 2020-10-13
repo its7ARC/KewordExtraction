@@ -13,4 +13,4 @@ KWC Model in use (Preprocessing -> Textual graph representation -> Node weight a
  
  -> Keyword Extraction : NERank{ R = (1-d)*W(Vi) + d*W(Vi)*sigma((w(ij) * R(j))/sigma(w(jk))) }
 
-//Sample Dataset : https://www.kaggle.com/benhamner/nips-papers?select=papers.csv
+//Dataset : https://www.kaggle.com/benhamner/nips-papers?select=papers.csv

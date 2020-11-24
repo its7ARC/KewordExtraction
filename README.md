@@ -1,10 +1,10 @@
 # kewordExtraction
-KWC Model in use (Preprocessing -> Textual graph representation -> Node weight assignment -> Keyword Extraction)
+KCW Model in use (Preprocessing -> Textual graph representation -> Node weight assignment -> Keyword Extraction)
 
 //Reference: Monali Bordoloi1 · Saroj Kr. Biswas1(2018)(Keyword extraction from blogs using collective weight, Springer)
 https://www.researchgate.net/publication/327616483_Keyword_extraction_from_micro-blogs_using_collective_weight
 
-//KWC model
+//KCW model
 
  -> Preprocessing: Stopword Removal + regExpTokenizer + removal of words with frequency less than AOF(average occurance frequency)
  

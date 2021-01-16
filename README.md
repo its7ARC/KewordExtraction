@@ -1,5 +1,5 @@
 # kewordExtraction _using (Keyword from Collective Weights)
-KCW Model in use (Preprocessing -> Textual graph representation -> Node weight assignment -> Keyword Extraction)
+KCW Model in use (Preprocessing -> Textual graph representation -> Node weight assignment -> Keyword Extraction using 'NE Rank')
 
 //Reference paper: Monali Bordoloi1 · Saroj Kr. Biswas1(2018)(Keyword extraction from blogs using collective weight, Springer)
 https://www.researchgate.net/publication/327616483_Keyword_extraction_from_micro-blogs_using_collective_weight

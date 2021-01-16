@@ -1,4 +1,4 @@
-# Keword Extraction _using (Keyword from Collective Weights)
+# Keword Extraction _using (Keywords from Collective Weights)
 KCW Model
 - Text Preprocessing
 - Textual graph representation

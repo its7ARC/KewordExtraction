@@ -18,7 +18,7 @@ Model Details
    - Vectorization
  - Textual Graph representation
    - Nodes : Each token has been treated as a node.
-   - Edges : Proximity b/w nodes. (Edge weight = freq(i,j)/(freq(i) + freq(j) - freq(i,j)) ... freq(i,j) => co-occurance frequency of 'i', 'j', freq(i) => frequency of word 'i')
+   - Edges : Proximity b/w nodes (Edge weights have been determined on the basis of co-occurance frequency)
  - Node Weight asssignment : Parameters Considered-
    - Position of a word
    - Term frequency

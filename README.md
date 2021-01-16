@@ -1,4 +1,4 @@
-# kewordExtraction _using keyword from collective weights model
+# kewordExtraction _using (Keyword from Collective Weights)
 KCW Model in use (Preprocessing -> Textual graph representation -> Node weight assignment -> Keyword Extraction)
 
 //Reference paper: Monali Bordoloi1 · Saroj Kr. Biswas1(2018)(Keyword extraction from blogs using collective weight, Springer)

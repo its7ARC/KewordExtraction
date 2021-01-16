@@ -30,4 +30,6 @@ Dataset Used: https://www.kaggle.com/benhamner/nips-papers?select=papers.csv
 
 Model Test: Model has been tested on a set of 10 research papers from the above dataset. https://github.com/its7ARC/kewordExtraction/blob/main/_keywordExtraction.ipynb
 
+Model Output: https://github.com/its7ARC/kewordExtraction/blob/main/modelOutput.png
+
 Detailed Project Report: https://github.com/its7ARC/kewordExtraction/edit/main/projectReport.pdf

@@ -19,7 +19,7 @@ Model Details
  - Textual Graph representation
    - Nodes : Each token has been treated as a node.
    - Edges : Proximity b/w nodes. (Edge weight = freq(i,j)/(freq(i) + freq(j) - freq(i,j)) ... freq(i,j) => co-occurance frequency of 'i', 'j', freq(i) => frequency of word 'i')
- - Node Weight asssignment : Parameters Considered
+ - Node Weight asssignment : Parameters Considered-
    - First/last Word
    - Term frequency
    - Selective Centrality
@@ -28,3 +28,4 @@ Model Details
 
 Dataset Used: https://www.kaggle.com/benhamner/nips-papers?select=papers.csv
 
+Detailed Project Report: 

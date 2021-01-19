@@ -3,7 +3,7 @@ KCW Model
 - Text Preprocessing
 - Textual graph representation
 - Node weight assignment 
-- Keyword Extraction using 'NE Rank'
+- Keyword Extraction using 'NE Rank' 
 
 Reference paper: Monali Bordoloi1 · Saroj Kr. Biswas1(2018)(Keyword extraction from blogs using collective weight, Springer)
 https://www.researchgate.net/publication/327616483_Keyword_extraction_from_micro-blogs_using_collective_weight
@@ -24,7 +24,7 @@ Model Details
    - Term frequency
    - Selective Centrality
    - Distance from central node
- - Keyword Extraction : NERank
+ - Keyword Extraction : NERank and Degree centrality
 
 Dataset Used: https://www.kaggle.com/benhamner/nips-papers?select=papers.csv
 
